@@ -1,6 +1,9 @@
 
 # ThirtySix Studio - Agency Portfolio
 
+
+![36](https://github.com/user-attachments/assets/8e6323bf-9215-4eac-8946-15570f00af05)
+
 Welcome to ThirtySix Studio, a modern, minimalistic agency portfolio built with React, Tailwind CSS, and GSAP animations. This project is designed to showcase a sleek, responsive design with interactive animations, suitable for agencies and freelancers looking for a visually engaging portfolio website.
 
 ### About the Project
